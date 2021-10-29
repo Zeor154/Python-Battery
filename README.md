@@ -14,9 +14,10 @@ My python version Python 3.9. It's needed to compile the script. I compile the s
 This app doesn't need unused permissions.
 # Changes that I couldn't add
 1. Sleep when the battery is below 15%
+
+If anyone could fix this, just create a new pull requests and I'll review it. Thanks!
 # Compile
 You can compile this using the auto-py-to-exe
 
-If anyone could fix this, just create a new pull requests and I'll review it. Thanks!
 # Antivirus
 Some antivirus flagged this as malware. It's false flagged.
