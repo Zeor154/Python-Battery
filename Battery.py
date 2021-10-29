@@ -76,13 +76,12 @@ while Check == True:
         if battery.power_plugged == False:
             battery = psutil.sensors_battery()
             print("Please plug in your charger")
-            toast.show_toast("Battery v1.1", "Please charge your battery.")
+            toast.show_toast("Battery v1.1", "Please charge.")
     if battery.percent == rmin:
         battery = psutil.sensors_battery()
         if battery.power_plugged == False:
             battery = psutil.sensors_battery()
             print("Please plug in your charger")
-            text = "Please charge."
-            toast.show_toast("Battery v1.1", "Please charge your battery.")
+            toast.show_toast("Battery v1.1", "Please charge.")
     print("")
     time.sleep(1)
