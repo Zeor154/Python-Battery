@@ -20,4 +20,4 @@ If anyone could fix this, just create a new pull requests and I'll review it. Th
 You can compile this using the auto-py-to-exe
 
 # Antivirus
-Some antivirus flagged this as malware. It's false flagged.
+Some antivirus flagged this as malware. It's falsely flagged.
