@@ -1,5 +1,5 @@
 # Modules
-You need to install some modules to use this python script. The modules that are needed are:
+You need to install some modules if you want to run this python script. The modules that are needed are:
 1. win10toast
  
 pip install win10toast
@@ -20,4 +20,4 @@ If anyone could fix this, just create a new pull requests and I'll review it. Th
 You can compile this using the auto-py-to-exe
 
 # Antivirus
-Some antivirus flagged this as malware. It's falsely flagged.
+Some antivirus flagged the compiled as malware. It's falsely flagged.
