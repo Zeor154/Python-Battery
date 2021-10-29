@@ -1,7 +1,9 @@
 # Modules
 You need to install some modules to use this python script. The modules that are needed are:
 1. win10toast
+ 
 pip install win10toast
+
 2. os
 3. psutil
 # Python version
