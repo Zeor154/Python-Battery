@@ -33,8 +33,8 @@ print("Battery left will be in seconds and updated after the battery percentage 
 print("")
 
 # Variable
-rmax = 75
-rmin = 40
+rmax = 74
+rmin = 41
 battery = psutil.sensors_battery()
 Check = True
 toast = ToastNotifier()
