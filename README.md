@@ -8,7 +8,6 @@ pip install win10toast
 
 pip install psutil
 
-pip install psutil
 # Python version
 My python version Python 3.9. It's needed to compile the script. I compile the script using auto-py-to-exe python module.
 # Permissions
