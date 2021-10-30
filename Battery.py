@@ -30,7 +30,7 @@ print("Battery left will be named as 'BatteryTime.POWER_TIME_UNLIMITED' if charg
 print("Battery left will be in seconds and updated after the battery percentage changes")
 
 # New line
-dprint("")
+print("")
 
 # Variable
 rmax = 74
@@ -59,6 +59,7 @@ while Check == True:
     battery = psutil.sensors_battery()
     print("Power plugged in :", battery.power_plugged)
     battery = psutil.sensors_battery()
+    # Get hours, minutes, seconds if it's on battery power and 99
     if battery.power_plugged == False:
         print("Battery left :", convertTime(battery.secsleft))
         battery = psutil.sensors_battery()
