@@ -22,3 +22,4 @@ You can compile this using the auto-py-to-exe
 
 # Antivirus
 Some antivirus flagged the compiled as malware. It's falsely flagged.
+Latest version release on VT: https://www.virustotal.com/gui/file/98984e9fdb74aa7644affb41a23c56a6f79a1c228cd1d0f340f420747b682722/detection
